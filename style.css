@@ -15,7 +15,7 @@
 
 /*Navigation css section*/
 nav {
-  background: linear-gradient(141deg, #cbcfce 0%, #d2d4d4 51%, #e2e4e4 75%);
+  background:linear-gradient(141deg, #cbcfce 0%, #d2d4d4 30%);
 	text-align: center;
 	position: sticky;
 	top: 0px;
